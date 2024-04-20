@@ -1,0 +1,3 @@
+D:/Projects/_Client Projects/Small Compiler C++/cmake-build-debug/CMakeFiles/Small_Compiler_C__.dir
+D:/Projects/_Client Projects/Small Compiler C++/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/_Client Projects/Small Compiler C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir

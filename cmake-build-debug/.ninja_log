@@ -1,0 +1,8 @@
+# ninja log v5
+5	702	7351642975622547	CMakeFiles/Small_Compiler_C__.dir/CSE_340_-_Project_3/compiler.cc.obj	c93eec7e742f9709
+14	1037	7351642978962918	CMakeFiles/Small_Compiler_C__.dir/CSE_340_-_Project_3/ir_debug.cc.obj	a0329d0182bc80e9
+8	253	7351643243057307	Small_Compiler_C__.exe	8fc52c8bb26c45a
+29	1038	7351642978962918	CMakeFiles/Small_Compiler_C__.dir/CSE_340_-_Project_3/main.cc.obj	2c0a53532b83dc07
+10	1077	7351642979372933	CMakeFiles/Small_Compiler_C__.dir/CSE_340_-_Project_3/inputbuf.cc.obj	361723a096928ecb
+19	1111	7351642979712913	CMakeFiles/Small_Compiler_C__.dir/CSE_340_-_Project_3/lexer.cc.obj	ff9bbf302382980c
+5	268	7352527767303786	build.ninja	5c93253781f83ab
